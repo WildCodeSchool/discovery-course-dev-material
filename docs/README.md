@@ -1,6 +1,7 @@
-## Créer un Sandbox sur Codesandbox.io
+# Les outils du développeur : conseils et tutoriels
 
-[Tutoriel](creer-un-sandbox-sur-codesandbox)
+## Codesandbox.io
 
-## Faire une copie d'un Sandbox sur Codesandbox.io
-[Tutoriel](creer-une-copie-d-un-sandbox)
+1. [Créer un Sandbox sur Codesandbox.io](creer-un-sandbox-sur-codesandbox)
+2. [Faire une copie d'un Sandbox sur Codesandbox.io](creer-une-copie-d-un-sandbox)
+3. [Publier un SandBox sur Codesandbox.io](plublier-un-sandbox)
